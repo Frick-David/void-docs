@@ -50,6 +50,10 @@ Flatpak documentation](https://flatpak.org/setup/Void%20Linux/).
 > Flatpak's sandboxing will not necessarily protect you from any security and/or
 > privacy-violating features of proprietary software.
 
+## Steam
+
+To install the video game service, steam, install its respective flatpak.
+
 ### Troubleshooting
 
 Some apps may not function properly (e.g. not being able to access the host
